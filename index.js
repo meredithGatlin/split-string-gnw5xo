@@ -9,8 +9,8 @@ const str = prompt('Enter a string:');
  * Create an array of substrings given a delimiter.
  * For example, if str = 'Hello World!' and delimiter = ' ', it should return ['Hello', 'World!']
  */
-let str = 'Hello World';
-let sep = str.split(' ', 3);
+let newString = 'Hello World';
+let sep = newString.split(' ', 3);
 let result = sep;
 
 // DO NOT CHANGE THE LINES BELOW.
